@@ -1,0 +1,30 @@
+body{
+    height: 1050px;
+    width: 1900px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom ,#1F2739, #3A4D60, #5C7084, #7E93A8);
+}
+h1{
+    text-align: center;
+    
+    color: #185875;
+}
+table {
+    width: 100%;
+    height: 90%;
+    border: 2px solid #A7A1AE;
+    border-collapse: separate;
+    border-spacing: 0;
+    background-color:#1F2739;
+    color:#A7A1AE;
+}
+th{
+    color: #185875;
+    font-weight: 700;
+}
+td{
+   text-align: center;
+   border: 1px solid #A7A1AE;
+
+}
